@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrisorGroup", "FrisorGroup\FrisorGroup.csproj", "{6AA0FBF4-7C05-43AF-B544-465D0D8C12F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA0FBF4-7C05-43AF-B544-465D0D8C12F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA0FBF4-7C05-43AF-B544-465D0D8C12F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA0FBF4-7C05-43AF-B544-465D0D8C12F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA0FBF4-7C05-43AF-B544-465D0D8C12F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF2CE5A-3793-4688-8BF6-A938C2FCC5CC}
+	EndGlobalSection
+EndGlobal
